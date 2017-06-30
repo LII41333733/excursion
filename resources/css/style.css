@@ -2,13 +2,29 @@ h1{
     text-align: center;
     font-family: Verdana;
     font-weight: 50px;
-    font-color: white;
+    color: white;
+}
 
+h3{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size:42px;
+    color:white;
 }
 
 a{
     color:aquamarine;
     font-size: 16px;
-    text-align:center;
     display:block
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    font-family:Verdana;
+}
+
+p{
+    font-size: 21px;
+    color:gray;
 }
